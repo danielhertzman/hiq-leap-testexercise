@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.APIExample", "HiQ.Leap.TestExercise.API\HiQ.Leap.TestExercise.APIExample.csproj", "{FAAACF34-BC51-4E13-B95E-AC5EE976F6DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.Domain", "HiQ.Leap.TestExercise.Domain\HiQ.Leap.TestExercise.Domain.csproj", "{45382033-77A3-4AF3-9989-2A210C40E33B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.Repository", "HiQ.Leap.TestExercise.Repository\HiQ.Leap.TestExercise.Repository.csproj", "{00E89753-5BA9-43B6-959F-EEFECC467C16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.Services", "HiQ.Leap.TestExercise.Services\HiQ.Leap.TestExercise.Services.csproj", "{1B1EEB95-8698-4BAD-B5C3-D74C29DC9ECD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.Tests.IntegrationTests", "HiQ.Leap.TestExercise.Tests.IntegrationTests\HiQ.Leap.TestExercise.Tests.IntegrationTests.csproj", "{792F7532-4D33-4632-9510-2D5AB508ABEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiQ.Leap.TestExercise.Tests.UnitTests", "HiQ.Leap.TestExercise.Tests.UnitTests\HiQ.Leap.TestExercise.Tests.UnitTests.csproj", "{0E478865-4AD9-4DF5-B026-6471D85266D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAACF34-BC51-4E13-B95E-AC5EE976F6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAACF34-BC51-4E13-B95E-AC5EE976F6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAACF34-BC51-4E13-B95E-AC5EE976F6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAACF34-BC51-4E13-B95E-AC5EE976F6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45382033-77A3-4AF3-9989-2A210C40E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45382033-77A3-4AF3-9989-2A210C40E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45382033-77A3-4AF3-9989-2A210C40E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45382033-77A3-4AF3-9989-2A210C40E33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E89753-5BA9-43B6-959F-EEFECC467C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E89753-5BA9-43B6-959F-EEFECC467C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E89753-5BA9-43B6-959F-EEFECC467C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E89753-5BA9-43B6-959F-EEFECC467C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1EEB95-8698-4BAD-B5C3-D74C29DC9ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1EEB95-8698-4BAD-B5C3-D74C29DC9ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1EEB95-8698-4BAD-B5C3-D74C29DC9ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1EEB95-8698-4BAD-B5C3-D74C29DC9ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792F7532-4D33-4632-9510-2D5AB508ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792F7532-4D33-4632-9510-2D5AB508ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792F7532-4D33-4632-9510-2D5AB508ABEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792F7532-4D33-4632-9510-2D5AB508ABEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E478865-4AD9-4DF5-B026-6471D85266D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E478865-4AD9-4DF5-B026-6471D85266D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E478865-4AD9-4DF5-B026-6471D85266D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E478865-4AD9-4DF5-B026-6471D85266D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A507FF-3902-4674-A12A-E5398A6A332B}
+	EndGlobalSection
+EndGlobal
